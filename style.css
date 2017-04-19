@@ -1,21 +1,45 @@
-<html>
- <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <title>Стили</title>
-  <style type="text/css">
-   H1 {
-    font-size: 13px; /* Размер шрифта */
-    font-weight: 400;
-   }
-   H2 {
-    font-size: 19px; /* Размер шрифта 2 */
-    font-weight: 400;
-   }
-   P {
-    font-size: 13px; /* Размер шрифта */
-    font-weight: 400;
-    }
 
-  </style>
- </head>
-</html>
+   h1 {
+    font-size: 19px; /* Большой черный шрифт */
+    font-weight: 400;
+    color: #000000;
+   }
+   p {
+    font-size: 13px; /* Маленький черный шрифт */
+    font-weight: 400;
+    color: #000000;
+    }
+    H3
+    {
+     font-size: 13px; /* Маленький серый шрифт */
+     font-weight: 400;
+     color: #828282;
+     }
+     H4
+     {
+      font-size: 13px; /* Маленький синий шрифт */
+      font-weight: 400;
+      color: #2a588d;
+      }
+      H5
+      {
+       font-size: 19px; /* Большой синий шрифт */
+       font-weight: 400;
+       color: #2a588d;
+       }
+       H6
+       {
+        font-size: 13px; /* Белый шрифт для кнопок */
+        font-weight: 400;
+        color: #ffffff;
+        }
+   P.ghgh1 {
+  background-color:#5e81a8; /* Цвет фона 1 */
+    }
+    P2 {
+    background-color:#ffffff; /* Цвет фона 2 */
+     }
+     P3 {
+     background-color:#e5ebf1; /* Цвет фона 3 */
+      }
+  
