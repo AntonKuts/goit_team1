@@ -1,4 +1,11 @@
 
+
+.block1, .block2, .block3, .block4, .block5 {
+  float: left;
+  width: auto;
+  margin: auto;
+}
+
    h1 {
     font-size: 19px; /* Большой черный шрифт */
     font-weight: 400;
@@ -42,4 +49,3 @@
      P3 {
      background-color:#e5ebf1; /* Цвет фона 3 */
       }
-  
