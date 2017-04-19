@@ -1,0 +1,42 @@
+.container {
+  width: 960px;
+  margin: auto;
+}
+
+.container .content-right, .container .content-left {
+
+}
+
+.container .content-right {
+  float: right;
+  width: 70%;
+  background-color: #333;
+}
+
+.images-preview img {
+  width: 20%;
+  margin: 1px;
+}
+
+.images-preview {
+  background-color: #777;
+}
+
+.container .content-left {
+  width: 30%;
+  float: left;
+  clear: both;
+  background-color: #000;
+}
+
+.header_label {
+ font-size: 13px; /* Маленький черный шрифт */
+ font-weight: 400;
+ color: #000000;
+ }
+
+ .header_count {
+   font-size: 13px; /* Маленький серый шрифт */
+   font-weight: 400;
+   color: #828282;
+  }
